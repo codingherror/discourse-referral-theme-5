@@ -1,0 +1,7 @@
+{
+      "name": "Discourse Referral Theme Component",
+      "about": "Adds a referral system with invite-based links and a UI panel for tracking referred users.",
+      "version": "0.1",
+      "authors": "Grok (based on user request)",
+      "component": true
+    }

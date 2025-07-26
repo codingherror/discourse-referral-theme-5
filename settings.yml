@@ -1,0 +1,4 @@
+referral_enabled:
+      default: true
+      type: bool
+      description: "Enable or disable the referral system."
